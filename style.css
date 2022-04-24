@@ -1,0 +1,23 @@
+body{
+  background-color: orange;
+
+}
+h1{
+  color: black;
+}
+h3{
+  color: #B6FFCE;
+}
+title{
+  color: #B6FFCE;
+}
+hr{
+border-color: blue;
+  border-style: none;
+  border-top-style: dotted;
+  height: 5px;
+  width: 5%;
+}
+img{
+height: 40px;
+}
